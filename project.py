@@ -8,7 +8,4 @@
 # my_list.insert(len(my_list),73)
 # print(my_list)
 
-
-
-
-
+print("hello-world")
