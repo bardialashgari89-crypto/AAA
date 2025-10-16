@@ -1,4 +1,5 @@
-# internal metod
+# slising
 my_list = [1,2,3,4,5]
-my_list=my_list.__add__([23,22,53,79])
+my_list[len(my_list):] = [55,77,88]
 print(my_list)
+
