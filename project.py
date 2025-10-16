@@ -1,4 +1,4 @@
-# unpacking
-my_list = [13,55,22,34,88,67,94,56]
-my_list = (*my_list,975)
+# +=
+my_list = [1,2,3,4,5]
+my_list+=[133,44,22,3466,789,43]
 print(my_list)
