@@ -1,4 +1,4 @@
-My_List = [1,2,3,4,5]
-number=6
-My_List.append(number)
-print(My_List)
+my_list = [1,2,3,4,5]
+number = [6]
+my_list = my_list + number
+print (my_list)
